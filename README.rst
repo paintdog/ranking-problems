@@ -9,7 +9,7 @@ get_change_as_string(change)
 get_change_in_ranking(rank, previous_rank)
   Calculates the difference between the actual and the previous rank.
 
-get_value2ranks(values):
+get_value2ranks(values)
   Generates a dictionary which assigns a rank to a value.
   
 Maybe of benefit to somebody.
